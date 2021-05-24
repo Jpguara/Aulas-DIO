@@ -1,0 +1,13 @@
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.exe
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.deps.json
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.runtimeconfig.json
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.runtimeconfig.dev.json
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.dll
+C:\C#\Aulas-DIO\Primeiro_Projeto\bin\Debug\netcoreapp3.1\Primeiro_Projeto.pdb
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.csprojAssemblyReference.cache
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.AssemblyInfoInputs.cache
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.AssemblyInfo.cs
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.csproj.CoreCompileInputs.cache
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.dll
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.pdb
+C:\C#\Aulas-DIO\Primeiro_Projeto\obj\Debug\netcoreapp3.1\Primeiro_Projeto.genruntimeconfig.cache
